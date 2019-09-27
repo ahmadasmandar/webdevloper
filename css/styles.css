@@ -2,12 +2,15 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 3rem;
+<<<<<<< HEAD
 
 }
 
 #title {
     /* margin-top: 50%; */
     background-color: #ff4c68;
+=======
+>>>>>>> daffaa64ce946c8c4aa313e639f1ce6a8efcd17e
 }
 
 .container-fluid {
@@ -15,6 +18,21 @@ h1 {
 }
 
 .rotate {
+<<<<<<< HEAD
     transform: rotate(20deg);
     width: 50%;
+=======
+    -webkit-transform: rotate(10deg);
+    -moz-transform: rotate(10deg);
+    -o-transform: rotate(10deg);
+    -ms-transform: rotate(10deg);
+    transform: rotate(10deg);
+    width: 50%;
+    height: 80%;
+    position: relative;
+    top: 50px;
+}
+#dogimage-div{
+    position: relative;
+>>>>>>> daffaa64ce946c8c4aa313e639f1ce6a8efcd17e
 }
