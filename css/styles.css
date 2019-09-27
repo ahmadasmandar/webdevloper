@@ -1,19 +1,20 @@
-#title{
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+
+}
+
+#title {
     /* margin-top: 50%; */
     background-color: #ff4c68;
-  }
-h1 {
-    font-family: "Montserrat-Black";
-    font-size: 3rem;
-    line-height: 1.5;
 }
-.container-fluid{
+
+.container-fluid {
     padding: 3% 15%;
 }
+
 .rotate {
-    -webkit-transform: rotate(10deg);
-    -moz-transform: rotate(10deg);
-    -o-transform: rotate(10deg);
-    -ms-transform: rotate(10deg);
-    transform: rotate(10deg);
+    transform: rotate(20deg);
+    width: 50%;
 }
